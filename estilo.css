@@ -1,0 +1,92 @@
+
+body {
+	margin: 0;
+    border: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#menu{
+	margin-top: 0;
+	background-color: white;
+	list-style: none;
+}
+
+#menu h4{
+	padding: 10px 15px;
+	display: inline-block;
+	color:#2d5f21;
+	text-decoration: none;
+}
+
+#banner{
+	width: 100%;
+    height: 610px;
+    margin-bottom: 75px;
+    background-color: #4b9e38;
+}
+
+#sobre {
+	width: 60%;
+    height: 210px;
+    float: left;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+	margin-top: 150px;
+	color: white;
+}
+
+#sobre h1{
+	font-size: 9vh;
+}
+
+#sobre p{
+	font-size: 3.6vh;
+}
+
+#linha{
+	width: 350px;
+	height: 2px;
+	background-color: white;
+	border-color: white;
+	margin-left: 27%;
+	margin-right: 27%;
+}
+
+#obj{
+	width: 70%;
+    margin-top: 60px;
+    margin-left: 15%;
+    margin-bottom: 60px;
+}
+
+.linha{
+	width: 40px;
+	height: 2px;
+	background-color: black;
+	border-color: black;
+	margin-left: 0px;
+}
+
+.traco{
+	width: 80%;
+	margin-left: 10%;
+}
+
+#rodape{
+    height: 62px;
+    background-color: #2d5f21;
+	color: white;
+	text-align: center;
+	margin: 0 0 0 0px;
+}
+
+#rodape p {
+    line-height: 10vh;
+}
+
+#video {
+	margin-left: 135px;
+}
+
